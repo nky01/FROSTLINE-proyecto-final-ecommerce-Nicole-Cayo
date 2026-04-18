@@ -84,6 +84,7 @@ footer .frostline-card p {
   margin-top: 20px;
 }
 
-.quick-links, .contact-us {
-  margin-top: 50px;
+.quick-links h4, .contact-us h4 {
+  margin-top: 23px;
+  text-align: center;
 }
