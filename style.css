@@ -71,21 +71,57 @@ nav ul li a {
 .card {
   width: 30vw;
   height: 30vh;
-  /*background-color: lightblue;*/
   padding: 30px;
   margin-top: 30px;
 }
 
+.quick-links-card {
+  width: 15vw;
+}
+
 footer .frostline-card p {
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   margin-top: 10px;
 }
 
-.social-icons {
-  margin-top: 20px;
+.logo-footer {
+  width: 200px;
+  margin-left: -16px;
 }
 
-.quick-links h4, .contact-us h4 {
-  margin-top: 23px;
-  text-align: center;
+.social-icons {
+  margin-top: 30px;
+}
+
+.social-icons a {
+  margin-right: 10px;
+}
+
+.quick-links-card h4, .contact-us-card h4 {
+  margin-top: 22px;
+}
+
+.quick-links {
+  margin-top: 35px;
+  font-size: 0.9rem;
+  list-style: none;
+}
+
+.quick-links li {
+  margin-bottom: 21px;
+}
+
+.quick-links li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.contact-info {
+  margin-top: 35px;
+  width: 140px;
+}
+
+.contact-info p {
+  font-size: 0.8rem;
+  margin-bottom: 10px;
 }
